@@ -7,5 +7,10 @@ print("hello world")
 def test():
     assert 1 == 1
     print("True")
+    print("false")
+    print("false")
+    print("false")
+    print("false")
+
 
 test()
